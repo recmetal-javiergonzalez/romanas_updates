@@ -4,7 +4,7 @@ Este repositorio contiene únicamente el archivo de actualización para la aplic
 
 ## URL de actualización
 ```
-https://recmetal-javiergonzalez.github.io/proyecto-romanas-updates/latest.json
+https://recmetal-javiergonzalez.github.io/romanas_updatess/latest.json
 ```
 
 ## Estructura del archivo

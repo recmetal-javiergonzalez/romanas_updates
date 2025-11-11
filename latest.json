@@ -1,7 +1,11 @@
 {
-  "version": "v0.1.1",
-  "pub_date": "2025-11-11T13:42:21Z",
-  "url": "https://github.com/recmetal-javiergonzalez/proyecto-romanas/releases/download/v0.1.1/proyectoromanas-recmetal_0.1.1_x86-setup.exe",
-  "signature": "Not Found",
-  "notes": "\n"
+  "platforms": {
+    "windows-i686": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRU3FnOHBMeDdET0g2NkhBNzRSbWRheC9xR2FlS21XdFkrNEtDM3NRUTlJRFk4aUI4M0lQQ29waWEvSE45TjJwT25nOGZ2ZGRNWlVzWHVEaUpvYUpWeXRYMjRUb1p6S3c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYyODk1NDA2CWZpbGU6cHJveWVjdG9yb21hbmFzLXJlY21ldGFsXzAuMS4yX3g4Ni1zZXR1cC5leGUKNVVaeWRsUStxcHUrcytSOTh1d2hlZ1lhcnRUWldKZi9ZZUhiZjNJMWpieVBKMjF4SnRzamxaNGNlZFpCbitUQzVCVGY1S01vQTZPM0Ezb0liUmIyQVE9PQo=",
+      "url": "https://github.com/recmetal-javiergonzalez/proyecto-romanas/releases/download/v0.1.2/proyectoromanas-recmetal_0.1.2_x86-setup.exe"
+    }
+  },
+  "version": "v0.1.2",
+  "notes": "",
+  "pub_date": "2025-11-11T21:10:16Z"
 }

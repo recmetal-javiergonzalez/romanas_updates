@@ -1,11 +1,11 @@
 {
+  "version": "0.1.5",
+  "notes": "",
+  "pub_date": "2025-11-21T13:29:08Z",
   "platforms": {
     "windows-i686": {
-      "url": "https://github.com/recmetal-javiergonzalez/proyecto-romanas/releases/download/v0.1.4/proyectoromanas-recmetal_0.1.4_x86-setup.nsis.zip",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRU3FnOHBMeDdET0FiWExQSCs1L3FoTmQzNUwyVnhEOFlQWnNBTGRzazI0K1dkOFVtMXZsdVpVVTlsUVAvK0llcmZrajd5VUlNYy8rNlRjYTcyMTVRd2w0cXkrZUpKQlFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYzNjczMDE3CWZpbGU6cHJveWVjdG9yb21hbmFzLXJlY21ldGFsXzAuMS40X3g4Ni1zZXR1cC5leGUKS1VBRkU0bmNhaE1yZCtRTlJBTHNQOXFORTRyMEpDUWtPbFQ5b1A3ODQ2TjhicWhKR3VvZUFjakYyeEkrRTZIMlNvV00zcXBraDlkSHNGWkVnLzNvQ0E9PQo="
+      "url": "https://github.com/recmetal-javiergonzalez/romanas_updates/releases/download/v0.1.5/proyectoromanas-recmetal_0.1.5_x86-setup.nsis.zip",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRU3FnOHBMeDdET01RZ1lDTUtSODAzd1ZjcnA2cUFyenZrdzVQQXJDcFVFc0JCOUVHYzBVS2JlV0VmTzVtQ3c5L0VPQm5vaWk5WEsxd1hOVzg4MUdlT21aaHpOem9WcEF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYzNzMxNzEwCWZpbGU6cHJveWVjdG9yb21hbmFzLXJlY21ldGFsXzAuMS41X3g4Ni1zZXR1cC5leGUKSHJ6QnAyU0Y4cFFYUld6b0cxU2s2bXVlVkNHYzZHdytKRDBYNGpSNUNBbkJ3aExZTDZqQXR2RVY2MkxyR3ZYNXBoclBlNXV2TUVPbFUxNXR2cGh5QkE9PQo="
     }
-  },
-  "notes": "",
-  "version": "0.1.4",
-  "pub_date": "2025-11-20T21:10:45Z"
+  }
 }
